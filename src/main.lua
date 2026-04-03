@@ -5,5 +5,5 @@ end
 
 function love.draw()
     -- Print Hello World in the center of the screen
-    love.graphics.print("Hello, GitHub Codespaces!", 300, 250, 0, 2, 2)
+    love.graphics.print("Hello new space!", 300, 250, 0, 2, 2)
 end
